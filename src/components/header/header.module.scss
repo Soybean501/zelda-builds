@@ -1,0 +1,19 @@
+.root {
+    position: sticky;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.btngrp {
+    display: flex;
+    gap: 8px;
+}
+
+.nav {
+    font-size: 1.2rem;
+}
